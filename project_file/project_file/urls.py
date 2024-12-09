@@ -1,5 +1,3 @@
-# project_file/urls.py
-
 from django.contrib import admin
 from django.urls import path, include
 admin.site.site_header="Hotel Management System"
